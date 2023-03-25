@@ -9,8 +9,8 @@ Using mongodb as my database, Node.js as the programming language and mongoose d
 
 Below I have included screenshots of some of the test results using Postman:
 
-![createClient](https://user-images.githubusercontent.com/98277022/227713269-d547c609-6bbf-4ce4-a090-b04f35b298cd.png)
-![deleteClient](https://user-images.githubusercontent.com/98277022/227713275-badf3a9e-a6e0-46a4-8363-140c5c7186bb.png)
-![readallClients](https://user-images.githubusercontent.com/98277022/227713276-b39b1394-9bab-40a8-9e1f-1670f71bc2d6.png)
-![readClient](https://user-images.githubusercontent.com/98277022/227713279-e7c584aa-b819-42a6-89e6-f6a198a6d380.png)
-![updateClient](https://user-images.githubusercontent.com/98277022/227713283-0e51cbda-5fe4-4a3e-900c-df344a5d02c6.png)
+![createClient](https://user-images.githubusercontent.com/98277022/227714082-9b8b6300-80eb-45fc-a4bd-85fb488a10fb.png)
+![deleteClient](https://user-images.githubusercontent.com/98277022/227714084-bc38da41-1d42-442c-b46f-901d8c0143ba.png)
+![readallClients](https://user-images.githubusercontent.com/98277022/227714087-24e7a468-a51b-4a30-95b1-f7825155b1c1.png)
+![readClient](https://user-images.githubusercontent.com/98277022/227714093-5a461d77-20a5-4179-96ae-f2e7ac3ff45f.png)
+![updateClient](https://user-images.githubusercontent.com/98277022/227714094-cec0515d-8313-457d-9050-f341fb7284c8.png)
